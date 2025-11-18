@@ -18,7 +18,7 @@ docker run --rm -it \
   -p 8888:8888 \
   -e JUPYTER_TOKEN=$env:JUPYTER_TOKEN \
   -v ${PWD}:/home/jupyter/work \
-  my-jupyterlab
+  jupyterlab-docker
 ```
 
 ## Localhost
