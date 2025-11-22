@@ -26,3 +26,7 @@ docker run --rm -it \
 ```text
 http://localhost:8888/lab?token=my-secret-token
 ```
+
+## Author
+
+Ville Pakarinen (@vpakarinen2)
