@@ -1,4 +1,4 @@
-# Basic JupyterLab Docker image
+# JupyterLab Docker image
 
 ## Build
 
